@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Storyboard Export Sketch Plugin</title>
+    <link>https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport.xml</link>
+    <description>Sketch plugin to export designs directly into Storyboard Designer</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>First Release v1.0</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport_v10.zip" sparkle:version="1.0" />
+      </item>
+      <item>
+        <title>Version 1.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Release Update v1.1</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport_v11.zip" sparkle:version="1.1" />
+      </item>
+  </channel>
+</rss>
+
