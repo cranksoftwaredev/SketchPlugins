@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Storyboard Export Sketch Plugin</title>
-    <link>https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport.xml</link>
+    <link>https://raw.githubusercontent.com/cranksoftwaredev/SketchPlugins/master/SketchStoryboardExport.xml</link>
     <description>Sketch plugin to export designs directly into Storyboard Designer</description>
     <language>en</language>
       <item>
@@ -14,7 +14,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport_v10.zip" sparkle:version="1.0" />
+        <enclosure url="https://raw.githubusercontent.com/cranksoftwaredev/SketchPlugins/master/SketchStoryboardExport_v1_0.zip" sparkle:version="1.0" />
       </item>
       <item>
         <title>Version 1.1</title>
@@ -25,7 +25,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/cranksoftwaredev/SketchPlugins/SketchStoryboardExport_v11.zip" sparkle:version="1.1" />
+        <enclosure url="https://raw.githubusercontent.com/cranksoftwaredev/SketchPlugins/master/SketchStoryboardExport_v1_1.zip" sparkle:version="1.1" />
       </item>
   </channel>
 </rss>
