@@ -22,7 +22,7 @@ In either case you will be prompted for a directory where the export can take pl
 create a fixed Storyobard Engine file and create an `images` directory where generated content from the Sketch design will 
 be created.
 
-## Importing To Storyobard Designer
+## Importing To Storyboard Designer
 
 The output from the plugin export is a file `sketch_export.gapp` that can be imported directly into Storyboard Designer via
 the *File > Import > Storyboard Embedded Engine (GAPP)*.  This will create a new model design file within Storyboard Designer 
