@@ -1,4 +1,4 @@
-![Crank Software](http://www.cranksoftware.com/sites/all/themes/crank-theme/images/Crank-logo.png)
+![Crank Software](http://www.cranksoftware.com/cranksoftware/v6.0.0/docs/webhelp/Crank-logo.png)
 
 # SketchPlugins
 
