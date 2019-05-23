@@ -32,3 +32,12 @@ For more information on working with Storyboard Designer:
  
 * http://www.cranksoftware.com/video-library
 * http://www.cranksoftware.com/product-documentation
+
+## Things To Keep In Mind
+
+1) Currently the GAPP export from Sketch does not support text render extensions
+2) Instead of the contents/controls of the group being offset from the group's origin, they are offset from the app's 0,0
+3) Limit the depth of groups in Sketch to match the fact that SB can’t have nested groups
+4) The Storyboard/Sketch plugin does not support third party animations/actions being imported.
+
+The purpose of the Sketch plugin is to transfer the design of the UI and then build up the animations and interactions in Storyboard Designer. 
