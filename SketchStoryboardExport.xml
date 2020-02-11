@@ -27,6 +27,17 @@
         </description>
         <enclosure url="https://raw.githubusercontent.com/cranksoftwaredev/SketchPlugins/master/SketchStoryboardExport_v1_1.zip" sparkle:version="1.1" />
       </item>
+      <item>
+        <title>Version 1.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Release Update v1.2</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://raw.githubusercontent.com/cranksoftwaredev/SketchPlugins/master/SketchStoryboardExport_v1_2.zip" sparkle:version="1.2" />
+      </item>
   </channel>
 </rss>
 
